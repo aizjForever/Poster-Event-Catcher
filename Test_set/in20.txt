@@ -1,0 +1,13 @@
+3
+
+WM mum YllllngEl
+This fall, learn more about typed
+assembly and Ryan Gosling.
+
+Course: 15-819, Domain-Specific Languages
+Instructor: Jean Yang
+
+Time: Tuesday/Thursday 3-4:20pm
+Location: GHC 4102
+
+http://bit.|y/dslfa||2016
